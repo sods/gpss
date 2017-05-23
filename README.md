@@ -59,3 +59,4 @@ Prior to the school starting we need to provide people with:
 - Which version of python are we using?
 - How do we distribute modules (i.e. sods, GPy) people might need.
 - We're assuming most computers are going to be laptops (and thus connect via wifi)
+- If we're using our own hotspot, will people not be connected to the internet at all? (I'm thinking last year people probably downloaded the sods data over the 'net when they first do the import).
