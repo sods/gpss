@@ -20,12 +20,15 @@ I ran an apache server on my laptop, and created a small webpage from which peop
  - download the jupyter notebooks and associated datafiles
  - download the lecture slides
  - create a new folder for the jupyter notebook (a small flask python script did this)
- - 
+ - ran the jupyter server (from a different user account to minimise security issues)
 
 ### Information
-
+Prior to the school starting we need to provide people with:
+ - the notebooks and data files
+ - anaconda links
+ - how to get set up, get jupyter running, etc
+ 
 ### Questions
-
 - Which version of python are we using?
 - How do we distribute modules (i.e. sods, GPy) people might need.
 - We're assuming most computers are going to be laptops (and thus connect via wifi)
