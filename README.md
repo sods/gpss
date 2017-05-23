@@ -15,6 +15,14 @@ Hardware to take:
  - video recording equipment
 
 ### Server Software
+#### Installing apache
+```
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install apache2 apache2-doc apache2-utils
+```
+more info <a href="https://www.linode.com/docs/web-servers/apache/apache-web-server-on-ubuntu-14-04">here</a>.
+
+#### Website
 I ran an apache2 server on my laptop, and created a small webpage from which people can
  - download anaconda
  - download the jupyter notebooks and associated datafiles
