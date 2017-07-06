@@ -72,33 +72,34 @@ Prior to the school starting we need to provide people with:
 # Camera recording equipment
 ## Parts lists
 
-benq projector
-and kettle cable
+- benq projector
+- and kettle cable
 
-pearl video storage unit
-pearl power supply (usually in same box) large+flat
-kettle cable
+- pearl video storage unit
+- pearl power supply (usually in same box) large+flat
+- kettle cable
 
-short hdmi cable from splitter to pearl box
-long hdmi cable from splitter to projector
-long hdmi cable from splitter to laptop
+- short hdmi cable from splitter to pearl box
+- long hdmi cable from splitter to projector
+- long hdmi cable from splitter to laptop
 
-splitter
-spliiter power supply (5V)
+- splitter
+- spliiter power supply (5V)
 
-camera (*don't* use the camera with the "CMOS sensor/32GB/full HD" sticker on.)
-black+white wired powersupply
-2 wire mini-kettle 'radio' power cable to powersupply
-hdmi (female) to mini hdmi (male) adaptor [**ON ORDER**]
-hdmi cable from camera to pearl box
+- camera (*don't* use the camera with the "CMOS sensor/32GB/full HD" sticker on.)
+- black+white wired powersupply
+- 2 wire mini-kettle 'radio' power cable to powersupply
+- hdmi (female) to mini hdmi (male) adaptor [**ON ORDER**]
+- hdmi cable from camera to pearl box
 
-TX sound RODELink (there are also old "Prosound" ones in a box, ignore these)
-RX sound RODELink 
-microphone (usually in a small bag)
-micousb cable (connect from Pearl box to RX box to power it - so we don't need as many batteries)
-lots of AA batteries for TX
-Audio cable (at one end red+white BNC connectors at other end a 3.5mm audio jack - connect from Pearl box to RX
+- TX sound RODELink (there are also old "Prosound" ones in a box, ignore these)
+- RX sound RODELink 
+- microphone (usually in a small bag)
+- micousb cable (connect from Pearl box to RX box to power it - so we don't need as many batteries)
+- lots of AA batteries for TX
+- Audio cable (at one end red+white BNC connectors at other end a 3.5mm audio jack - connect from Pearl box to RX
 
-Tripod
+- Tripod
 
 ## Circuit diagram
+
