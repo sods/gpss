@@ -90,7 +90,7 @@ Prior to the school starting we need to provide people with:
 - black+white wired powersupply
 - 2 wire mini-kettle 'radio' power cable to powersupply
 - hdmi (female) to mini hdmi (male) adaptor [**ON ORDER**]
-- hdmi cable from camera to pearl box
+- hdmi cable from camera to pearl box [missing]
 
 - TX sound RODELink (there are also old "Prosound" ones in a box, ignore these)
 - RX sound RODELink 
@@ -101,5 +101,9 @@ Prior to the school starting we need to provide people with:
 
 - Tripod
 
-## Circuit diagram
+- headphones for checking audio's ok [missing]
+
+## To Add
+
+Need headphones and another HDMI cable (there needs to be four!)
 
