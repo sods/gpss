@@ -30,9 +30,10 @@ I ran an apache2 server on my laptop, and created a small webpage from which peo
  - create a new folder for the jupyter notebook (a small flask python script did this)
  - ran the jupyter server (from a different user account to minimise security issues)
  
-I've put some of last year's files up on the repo (see inside <a href="https://github.com/sods/gpss/tree/master/dsa_hosted_files">dsa_hosted_files</a>). I've not included the anaconda installers or these two files (as they're too large for a git repo):
+I've put some of last year's files up on the repo (see inside <a href="https://github.com/sods/gpss/tree/master/dsa2016_hosted_files">dsa2016_hosted_files</a>). I've not included the anaconda installers or these two files (as they're too large for a git repo):
 - malaria-classification-example.npz
 - twitter_data.txt
+This years should go in <a href="https://github.com/sods/gpss/tree/master/dsa2017_hosted_files">dsa2017_hosted_files</a>. Please don't put anything over 10Mb in there as we don't want to bloat the repo too much.
 
 I also wrote a small python script (called <a href="https://github.com/sods/gpss/blob/master/server.py">server.py</a>) that created a new folder for the jupyter notebooks, and copies in all the files (from the ```source_ipython``` folder) the student will need (data csv files etc).
 
