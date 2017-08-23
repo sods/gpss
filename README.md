@@ -108,3 +108,6 @@ Prior to the school starting we need to provide people with:
 
 Need headphones and another HDMI cable (there needs to be four!)
 
+## Note!
+
+I had a chat today with Mathieu at Epiphan Pearl, who said the problem is due to HDCP encryption (copy protection) on HDMI, which apple now have - I guess it appeared in an update over the last year. Anyway - we either need to find a splitter which strips out the encryption - that's getting harder, or convert to VGA and back. It looks like that's the most reliable way. I can't see too much VGA stuff in the box, so I'm ordering a bunch more.
